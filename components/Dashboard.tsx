@@ -166,7 +166,7 @@ export default function Dashboard() {
       <header className="bg-white shadow-sm border-b border-amber-100">
         <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
           <div>
-            <h1 className="text-2xl font-bold text-amber-800">🍰 Control de Postres</h1>
+            <h1 className="text-2xl font-bold text-amber-800">🍰 Control Postres PRONTOPIZZA</h1>
             <p className="text-sm text-gray-500 mt-0.5 capitalize">{today}</p>
           </div>
           <button
@@ -271,7 +271,6 @@ export default function Dashboard() {
                           </button>
                         )}
                       </div>
-                      <span className="text-xs text-gray-400">{dessert.unit}</span>
                     </div>
 
                     {/* Stock */}

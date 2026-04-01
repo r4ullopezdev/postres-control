@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Control de Postres",
+  title: "Control Postres PRONTOPIZZA",
   description: "Sistema de gestión de inventario de postres",
 };
 
